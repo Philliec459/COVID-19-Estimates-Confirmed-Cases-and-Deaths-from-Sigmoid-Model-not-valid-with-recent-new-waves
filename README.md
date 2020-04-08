@@ -26,4 +26,4 @@ In this study we fit the most current COVID data to our Sigmoid equation model g
 
 ![COVID](sigmoid_model_estimates_US.png)
 
-Provided are the April 7th COVID data from Johns Hopkins and a Notebook by country and a Notebook for the US. New date will be uploaded. 
+Provided are the April 7th COVID data from Johns Hopkins and a Notebook by country and a Notebook for the US. New data will be uploaded. 
