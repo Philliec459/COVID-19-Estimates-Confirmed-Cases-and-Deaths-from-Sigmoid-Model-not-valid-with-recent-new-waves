@@ -8,7 +8,6 @@ Beginning in January of 2020 we have witnessed a pandemic the likes of which ver
 
 ![COVID](covid_forecast.png)
 
-![COVID](covid_forecast_US.png)
 
 Our primary objective is to commit our ideas, concepts and methods into code using the data that we are being furnished. We want to share these concepts with true Data Scientists so that hopefully we can better understand and forecast this pandemic. The model being presented in this notebook employs the most current data being updated every day. We are using ML to generate predictive estimations of the maximum expected Confirmed Cases by country/region and create reasonable timelines for these occurrences.
 
