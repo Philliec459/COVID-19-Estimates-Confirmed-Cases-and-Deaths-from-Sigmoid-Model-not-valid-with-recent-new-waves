@@ -3,6 +3,8 @@ COVID-19 Estimates of Confirmed Cases and Deaths using Sigmoid Model for Countri
 
 ![COVID](BubbleMap_mch29.png)
 
+### The Notebooks Version 8 auto will download the most current Johns Hopkins COVID data and then make estimates for the maximum expected Confirmed-Cases and Deaths by country or state.
+
 
 Beginning in January of 2020 we have witnessed a pandemic the likes of which very few people have ever seen. As we approach nearly 1.5 million Confirmed Cases as of Apreil 8, 2020 we as a world appear to be flattening out on the rate of new cases each day.  This COVID-19 disease as it has spread from China, Middle East, Europe, Africa and the US, killing nearly 100,000 souls. Is there anything that we as individuals can do to better understand how this disease has spread throughout the world, and how many more are yet to be affected by COVID-19? This is at the heart of of this notebook as we attempt to develop tools to forecast Confirmed Cases and Deaths using the data being furnished by Johns Hopkins on a daily basis.  
 
