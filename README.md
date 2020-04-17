@@ -5,6 +5,12 @@ COVID-19 Estimates of Confirmed Cases and Deaths using Sigmoid Model for Countri
 
 ### The Notebooks Version 8 auto will download the most current Johns Hopkins COVID data and then make estimates for the maximum expected Confirmed-Cases and Deaths by country or state.
 
+
+![COVID](sigmoid_model_estimates.png)
+
+![COVID](sigmoid_model_estimates_US.png)
+
+
 Beginning in January of 2020 we have witnessed a pandemic the likes of which very few people have ever seen. As we approach nearly 1.5 million Confirmed Cases as of Apreil 8, 2020 we as a world appear to be flattening out on the rate of new cases each day.  This COVID-19 disease as it has spread from China, Middle East, Europe, Africa and the US, killing nearly 100,000 souls. Is there anything that we as individuals can do to better understand how this disease has spread throughout the world, and how many more are yet to be affected by COVID-19? This is at the heart of of this notebook as we attempt to develop tools to forecast Confirmed Cases and Deaths using the data being furnished by Johns Hopkins on a daily basis.  
 
 Our primary objective is to commit our ideas, concepts and methods into code using the data that we are being furnished. We want to share these concepts with true Data Scientists so that hopefully we can better understand and forecast this pandemic. The model being presented in this notebook employs the most current data being updated every day. We are using ML to generate predictive estimations of the maximum expected Confirmed Cases by country/region and create reasonable timelines for these occurrences.
@@ -19,8 +25,5 @@ These COVID data trends have certain characteristics by country/region as pointe
 
 In this study we fit the most current COVID data to our Sigmoid equation model generating an estimating for the maximum number of Confirmed Cases expected and the 50th Percentile or inflection point in these data. Since very few countries or regions have even approached the maximum Confirmed Cases value as seen by the flattening of the curve, then it is the inflection point that is presently giving us rough estimates of where we are on that curve, and what me might anticipate for the future. Again, these are only estimates as shown below with uncertainty. As of this date we have not quantified the uncertainty, but judging by the Hubei and South Korea, this uncertainty will decrease with time. Our most imortant tool is the day-to-day rate of change in the number of Confirmed Cases.  This is very useful in helping us understand where we are on the evolutionary timeline.
 
-![COVID](sigmoid_model_estimates.png)
-
-![COVID](sigmoid_model_estimates_US.png)
 
 ### The Notebooks Version 8 auto will download the most current Johns Hopkins COVID data and then make estimates for the maximum expected Confirmed-Cases and Deaths by country or state.
