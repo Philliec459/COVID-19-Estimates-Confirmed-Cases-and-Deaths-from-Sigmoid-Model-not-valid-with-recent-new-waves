@@ -1,5 +1,6 @@
 # COVID-19-Estimates-of-Confirmed-Cases_from-Sigmoid-Model
 # This method is not applicable for US data since the second wave starting around June 1
+
 COVID-19 Estimates of Confirmed Cases and Deaths using Sigmoid Model for Countries or US States
 
 ![COVID](BubbleMap_mch29.png)
